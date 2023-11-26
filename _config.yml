@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Joseph Lawrence
+title: Joseph Wood
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Joseph is a super minimal content focus theme for Jekyll.
 baseurl: "/josephjekyll" # the subpath of your site, e.g. /blog
@@ -9,8 +9,8 @@ url: "https://ithinkiamjoseph.github.com" # the base hostname & protocol for you
 #-------------------------------
 # Author Settings
 author:
-  name: Joseph Lawrence
-  bio: I'm a designer & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
+  name: Joseph Wood
+  bio: I'm Technical Trainer. I teach employees how to be more productive. I'm passionate about productivity, apps, and learning.
   avatar: '/images/01.jpg'
 
 social:
@@ -27,8 +27,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Joseph! Designer & Developer.
-  hero__description: I'm a designer & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
+  hero__title: Hey, I’m Joseph! Teacher & Lifetime Learner.
+  hero__description: I'm Technical Trainer. I teach employees how to be more productive. I'm passionate about productivity, apps, and learning.
   hero__image: '/images/01.jpg'
 
 
