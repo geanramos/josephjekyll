@@ -3,8 +3,8 @@
 title: Joseph Lawrence
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Joseph is a super minimal content focus theme for Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/josephjekyll" # the subpath of your site, e.g. /blog
+url: "https://ithinkiamjoseph.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
